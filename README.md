@@ -1,3 +1,9 @@
+
+my report 
+https://1drv.ms/w/s!AuzNUARsCE5ElCcwJ49IHKtWDrZ5?e=3GZf8v
+
+
+
 # Deep-Learning-HW
 Unit 21 Homework: Charity Funding Predictor
 Background 
